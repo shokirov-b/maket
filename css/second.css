@@ -257,6 +257,18 @@ main{
     font-style: normal;
 
 }
+.button{
+    background-color: #00BAFC;
+    border-radius: 5px;
+}
+.button:hover{
+    border-radius: 5px;
+    background: rgba(0, 186, 252, 0.8);
+}
+.button:active{
+    border-radius: 5px;
+    background: rgba(0, 186, 252, 0.6);
+}
 /* /* ----------------Contact---------------- */
 .contact{
     background-color:  #00BAFC;;
